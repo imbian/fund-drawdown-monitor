@@ -1,6 +1,6 @@
 import { renderHtml } from "./renderHtml";
-import { Router } from 'itty-router'
-const router = Router()
+import { AutoRouter } from 'itty-router'
+const router = AutoRouter()
 /*
 Our index route, a simple hello world.
 */
