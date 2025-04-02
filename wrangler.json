@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "fund-drawdown-monitor",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f088b361-7baa-48b2-85a9-1d46eaba58dc",
+      "database_name": "fund-drawdown-monitor"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
